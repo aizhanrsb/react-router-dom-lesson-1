@@ -1,3 +1,22 @@
 {
-  "products": []
+  "products": [
+    {
+      "title": "js.ev 9",
+      "price": "jgdlkh",
+      "image": "hdvbgkv",
+      "id": 2
+    },
+    {
+      "title": "qwerty",
+      "price": "345678",
+      "image": ",dfb",
+      "id": 3
+    },
+    {
+      "title": "kjklhjj",
+      "price": "jhbkj",
+      "image": "bnm",
+      "id": 4
+    }
+  ]
 }
